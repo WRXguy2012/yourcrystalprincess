@@ -1,0 +1,34 @@
+p{
+    margin: 0 0 0 0;
+    line-height: 1.5vw;
+}
+
+a{
+    font-size: 1.0vw;
+    font-weight: 500;
+    font-size:1vw;
+}
+
+nav{
+    background-color:oldlace;
+    padding-top: .5vw;
+    padding-left: 3vw;
+    padding-right: 1vw;
+}
+
+.tenor-sans-regular{
+    font-family: "Tenor Sans", sans-serif;
+}
+.waterfall-regular{
+    font-family: "Waterfall", Cursive;
+    font-size: 2vw;
+}
+
+#pinkLogo{
+    width: 4.2vw;
+    padding: 0 0 0 0vw;
+}
+#landingImg{
+    width: 100vw;
+    height: 50vw;
+}
